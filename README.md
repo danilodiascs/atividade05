@@ -6,9 +6,9 @@
 
 ## Sumário
 
-1.[Instruções de instalação](https://github.com/danilodiascs/atividade05?tab=readme-ov-file#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o)
-2.[Instruções de Uso](https://github.com/danilodiascs/atividade05?tab=readme-ov-file#instru%C3%A7%C3%B5es-de-uso)
-3.[Contribuição](https://github.com/danilodiascs/atividade05?tab=readme-ov-file#instru%C3%A7%C3%A3o)
+1. [Instruções de instalação](https://github.com/danilodiascs/atividade05?tab=readme-ov-file#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o)
+2. [Instruções de Uso](https://github.com/danilodiascs/atividade05?tab=readme-ov-file#instru%C3%A7%C3%B5es-de-uso)
+3. [Contribuição](https://github.com/danilodiascs/atividade05?tab=readme-ov-file#instru%C3%A7%C3%A3o) 
 
 
 ## Instruções de instalação
